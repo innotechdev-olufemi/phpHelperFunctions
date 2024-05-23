@@ -8,6 +8,6 @@ This .php file has been equipped with useful functions to aid PHP development
 2. To use any of the static functions, 
 #write the code
 
-MyApp::<function name>
+MyApp::function name
 
 Feel free to send your questions
